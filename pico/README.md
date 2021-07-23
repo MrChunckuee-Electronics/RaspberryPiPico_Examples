@@ -17,6 +17,10 @@ Programación de la Raspberry Pi Pico usando MicroPython. Son algunas parcticas 
 | 3 | ssd1306_adc_temperature | Uso del sensor de temperatura interno del RP2040 |
 | 4 | max7219_test | Uso basico del modulo de matriz de LEDs 8x32  |  
 | 5 |  |  |  
+| 6 |  |  | 
+| 7 |  |  | 
+| 8 |  |  | 
+| 9 |  |  | 
 
 ***
 Puedes seguirme en:
