@@ -16,7 +16,7 @@ Programación de la Raspberry Pi Pico usando MicroPython. Son algunas parcticas 
 | 2 | ssd1306_test | Uso basico de pantalla OLED SSD1306 de 128x64 |
 | 3 | ssd1306_adc_temperature | Uso del sensor de temperatura interno del RP2040 |
 | 4 | max7219_test | Uso basico del modulo de matriz de LEDs 8x32  |  
-| 5 |  |  |  
+| 5 | max7219_scroll_text | MAX7219 Matriz de LEDs 32x8 - Desplazamiento de texto |  
 | 6 |  |  | 
 | 7 |  |  | 
 | 8 |  |  | 
